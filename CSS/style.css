@@ -1,0 +1,23 @@
+.principal-nav{
+    margin-top:  10px;
+    list-style: none;
+    padding-left: 0;
+    background-color: aquamarine;
+    font-size: 25px;
+}
+
+.principal-nav__item{
+    display: inline-block;
+}
+
+.principal-nav__item a {
+    color:blueviolet;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+p {
+    color :chartreuse;
+    
+}
